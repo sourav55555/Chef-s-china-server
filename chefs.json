@@ -1,0 +1,52 @@
+{
+    "chefs": [
+        {
+            "id": 1,
+            "name": "Chen Kenichi",
+            "picture": "https://cdn.vox-cdn.com/thumbor/xwVmnbaMp06ctmmYq2tfSTiEuFc=/0x0:2617x2135/1220x813/filters:focal(1100x859:1518x1277):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/72003723/Martin_Yan_04045_retouch_1_.0.png",
+            "years_of_experience": 25,
+            "recipes_number": 80,
+            "likes": 5000
+        },
+        {
+            "id": 2,
+            "name": "Martin Yan",
+            "picture": "https://static.euronews.com/articles/stories/07/07/01/40/808x1206_cmsv2_eb4e849a-8407-5018-aed3-09e33ef312f3-7070140.jpg",
+            "years_of_experience": 40,
+            "recipes_number": 120,
+            "likes": 10000
+        },
+        {
+            "id": 3,
+            "name": "Ching-He Huang",
+            "picture": "https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=425,format=auto/sites/default/files/styles/768x768/public/d8/images/canvas/2022/07/15/bab35e0d-edf4-4ed2-8994-ff89717b35c3_e9b0e6b6.jpg?itok=1KzZDAUj&v=1657859930",
+            "years_of_experience": 20,
+            "recipes_number": 50,
+            "likes": 3000
+        },
+        {
+            "id": 4,
+            "name": "Ken Hom",
+            "picture": "https://d30i07b9wlivv4.cloudfront.net/uploads/2017/10/17222357/Mission-Chinese-x-W-Hotels-1780-700x804.jpg",
+            "years_of_experience": 35,
+            "recipes_number": 100,
+            "likes": 8000
+        },
+        {
+            "id": 5,
+            "name": "Dong Zhenxiang",
+            "picture": "https://static01.nyt.com/images/2019/10/02/dining/26Chiang4/merlin_161503653_ecfdda83-ec42-43bf-9ee0-c8672d2e5f39-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+            "years_of_experience": 30,
+            "recipes_number": 90,
+            "likes": 6000
+        },
+        {
+            "id": 6,
+            "name": "Yu Bo",
+            "picture": "https://www.thespruceeats.com/thmb/8zjDnq304ULaMHoxiA5MeZlxJUY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/susanna-foo-56b6b5c25f9b5829f83421f5.jpg",
+            "years_of_experience": 15,
+            "recipes_number": 40,
+            "likes": 2000
+        }
+    ]
+}

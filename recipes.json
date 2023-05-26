@@ -1,0 +1,93 @@
+{
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Kung Pao Chicken",
+        "ingredients": [
+          "1 pound boneless, skinless chicken breasts, cut into 1-inch cubes",
+          "1 tablespoon cornstarch",
+          "1 tablespoon soy sauce",
+          "2 teaspoons vegetable oil",
+          "1/4 cup roasted peanuts",
+          "4-5 dried red chili peppers",
+          "1 green bell pepper, diced",
+          "1 red bell pepper, diced"
+        ],
+        "cooking_method": "1. In a small bowl, mix together cornstarch and soy sauce to create a marinade. Add the chicken and toss to coat. \n2. Heat a large wok or skillet over high heat. Add vegetable oil and swirl to coat. \n3. Add chicken and stir-fry until browned and cooked through, about 3-4 minutes. \n4. Add peanuts, chili peppers, and bell peppers. Stir-fry for another 2-3 minutes. \n5. Serve hot over rice.",
+        "rating": 4.5
+      },
+      {
+        "id": 2,
+        "name": "Hot and Sour Soup",
+        "ingredients": [
+          "6 cups chicken broth",
+          "1/2 cup sliced bamboo shoots",
+          "1/2 cup sliced mushrooms",
+          "1/4 cup rice vinegar",
+          "1 tablespoon soy sauce",
+          "1 tablespoon cornstarch",
+          "1 egg, lightly beaten",
+          "1/4 cup diced tofu"
+        ],
+        "cooking_method": "1. In a large pot, bring chicken broth to a boil. \n2. Add bamboo shoots, mushrooms, rice vinegar, and soy sauce. \n3. In a small bowl, mix together cornstarch and 2 tablespoons of water to create a slurry. Add to the pot and stir until soup thickens. \n4. Slowly pour in beaten egg while stirring. \n5. Add diced tofu and stir. \n6. Serve hot.",
+        "rating": 4.2
+      },
+      {
+        "id": 3,
+        "name": "Peking Duck",
+        "ingredients": [
+          "1 whole duck",
+          "1 tablespoon honey",
+          "1 tablespoon soy sauce",
+          "1 tablespoon sherry",
+          "1 teaspoon five-spice powder",
+          "1/4 cup hoisin sauce",
+          "16 small pancakes",
+          "4 green onions, sliced"
+        ],
+        "cooking_method": "1. Preheat oven to 350°F. \n2. In a small bowl, mix together honey, soy sauce, sherry, and five-spice powder. \n3. Brush the mixture all over the duck. \n4. Place the duck on a rack in a roasting pan and roast for 2-2 1/2 hours, until the skin is crispy and the meat is cooked through. \n5. Remove the duck from the oven and let it cool for a few minutes. \n6. Slice the meat and skin off the duck and serve with hoisin sauce, pancakes, and sliced green onions.",
+        "rating": 4.7
+      },
+      {
+        "id": 4,
+        "name": "Egg Fried Rice",
+        "ingredients": [
+          "cooked white rice",
+          "eggs",
+          "peas",
+          "carrots",
+          "green onions"
+        ],
+        "cooking_method": "1. Heat oil in a wok and stir-fry the peas and carrots until cooked. 2. Move the vegetables to one side of the wok and pour the beaten eggs into the other side. Scramble the eggs until cooked. 3. Add the cooked white rice and stir-fry everything together. 4. Add soy sauce and white pepper to taste. 5. Garnish with chopped green onions and serve hot.",
+        "rating": 4.0
+      },
+      {
+        "id": 5,
+        "name": "Beef and Broccoli",
+        "ingredients": [
+          "beef sirloin",
+          "broccoli",
+          "garlic",
+          "soy sauce",
+          "cornstarch"
+        ],
+        "cooking_method": "1. Cut the beef into thin slices and marinate in a mixture of soy sauce, Shaoxing wine, and cornstarch. 2. Cut the broccoli into small florets and slice the garlic. 3. Heat oil in a wok and stir-fry the beef until browned. 4. Add the garlic and stir-fry until fragrant. 5. Add the broccoli and stir-fry for a few minutes until tender. 6. Add soy sauce and white pepper to taste. 7. Serve hot with steamed",
+        "rating": 4.3
+    },{
+        "id": 6,
+        "name": "Mapo Tofu",
+        "ingredients": [
+          "firm tofu",
+          "ground pork",
+          "dried red chilies",
+          "Sichuan peppercorns",
+          "green onions",
+          "ginger",
+          "garlic",
+          "fermented black beans"
+        ],
+        "cooking_method": "1. Cut the tofu into small cubes and set aside. 2. Heat oil in a wok and stir-fry the ground pork until browned. 3. Add the dried chilies, Sichuan peppercorns, ginger, and garlic and stir-fry until fragrant. 4. Add the fermented black beans and stir-fry for another minute. 5. Pour in chicken broth and bring to a boil. 6. Add the tofu cubes and gently stir to combine. 7. Let simmer for a few minutes until the tofu is heated through. 8. Mix cornstarch and water in a small bowl and add to the wok to thicken the sauce. 9. Garnish with chopped green onions and serve hot with steamed rice.",
+        "rating": 4.3
+      }
+    ]
+}
